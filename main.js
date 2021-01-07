@@ -1,7 +1,6 @@
 const myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';
 
- 	alert('Warning, this is a popup alert!!!');
   // Define a Function
  	function sayOuch() {
  	alert('Ouch! Stop poking me!');
@@ -12,3 +11,5 @@ myHeading.textContent = 'Hello world!';
  
  	// Assign the function to the onclick event on that element
  	foxImage.onclick = sayOuch;
+
+ 	

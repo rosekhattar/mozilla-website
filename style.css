@@ -1,14 +1,15 @@
 p {
-  color: red;
+  color: green;
   width: 500px;
   border: 1px solid black;
 }
 
 .quote {
-	border: 5px solid black;
+	border: 5px solid yellow;
 
 }
 
 #mainquote {
-	border: 8px solid green;
+	border: 8px solid red;
 }
+
